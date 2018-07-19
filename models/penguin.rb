@@ -1,0 +1,2 @@
+class Penguin < Animal
+end

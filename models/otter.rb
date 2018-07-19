@@ -1,0 +1,2 @@
+class Otter < Animal
+end

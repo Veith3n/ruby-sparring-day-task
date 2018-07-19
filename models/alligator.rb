@@ -1,0 +1,2 @@
+class Alligator < Animal
+end
